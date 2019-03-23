@@ -1,0 +1,2 @@
+# Max-Fibonaci-Heap---Duck-duck-Go
+Implement a feature for the “DuckDuckGo” search engine where we are required to count the n most popular keywords that are used in their search engine at any time. We use a max priority structure i.e the Max Fibonacci heap to keep a track of the frequencies of keyword. We also will make use of a hash table where the keys are the searched words and the value is the frequency so that we can retrieve and put keywords with a amortized cost of O(1). The input will be provided in a file with the keyword and its corresponding frequency.
